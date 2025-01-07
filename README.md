@@ -1,4 +1,5 @@
-#Usando Apache Airflow e Web Scraping para Explorar Dados do FBref ⚽
+##Usando Apache Airflow e Web Scraping para Explorar Dados do FBref ⚽
+
 🎯 Explorando Dados de Futebol com Airflow e FBref ⚽
 Nos meus estudos recentes sobre ferramentas de dados, desenvolvi uma DAG no Apache Airflow para realizar web scraping do site FBref, uma das melhores fontes para dados atualizados sobre ligas, clubes e jogadores de futebol. Este projeto destacou a importância de ferramentas modernas para automação e coleta de dados no universo do futebol. O projeto é uma continuação de um outro projeto meu. 
 
