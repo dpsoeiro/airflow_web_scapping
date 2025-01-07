@@ -11,7 +11,11 @@ Para analistas e profissionais de scouting, trabalhar com informações recentes
 
 🔑 Destaques da minha implementação no Airflow
 1️⃣ Validação de arquivos locais: Antes de realizar novas coletas, a DAG verifica se os dados já existem e estão atualizados. Isso reduz processamento desnecessário.
+
 2️⃣ Web scraping estruturado: Utilizei bibliotecas como BeautifulSoup para navegar no site e capturar informações detalhadas de times e competições.
+
 3️⃣ Transformação de dados: As tabelas são processadas e integradas, permitindo uma visão consolidada de estatísticas.
+
 4️⃣ Escalabilidade e automação: Com operadores Python, a DAG está configurada para rodar periodicamente e gerenciar falhas com eficiência.
+
 5️⃣ Armazenamento final dos dados estruturados no Google Cloud Storage, garantindo segurança, escalabilidade e armazenamento dos dados históricos.
